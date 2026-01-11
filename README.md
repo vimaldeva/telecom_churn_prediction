@@ -64,25 +64,3 @@ Telecom operators fight churn every quarter. This repository demonstrates an end
 > Replace the ellipses with actual numbers from `metrics/model_metrics.csv`.
 
 ---
-
-## 📂  Folder Structure
-
-
-project-root/
-├── src/
-│   └── telecom_churn_prediction.ipynb
-├── data/
-│   ├── processed_data/
-│   │   └── processed_telecom_data.csv
-│   ├── telecom_customer_churn.csv
-│   └── telecom_data_dictionary.csv
-├── visualization/
-│   ├── EDA/
-│   └── metrics/
-│       ├── confusion_matrix/
-│       └── ROC/
-└── metrics/
-    ├── model_metrics.csv
-    └── metrics_comparison.png
-
----
